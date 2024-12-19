@@ -10,25 +10,29 @@ export default function InputUrl() {
   }
 
   async function Submit() {
-
-    axios({
+    try {
+      const result = await axios({
       method: "POST",
       url: "http://127.0.0.1:5000/upload",
-      data: {  // Use `data` instead of `params` to send the request body
+      data: {
         file_path: "C:\\Users\\egypt\\Downloads\\train\\737.jpg",
         x: 425,
         y: 628,
         w: 180,
         h: 86
       }
-    })
-      .then(function (response) {
-        console.log(response.data);
-        setSub(response.data);
       })
-      .catch(function (error) {
-        console.error("Error:", error.message);
-      });
+      
+      setSub(result.data.text)
+    } catch (error) {
+      console.error("Error:", error.message); 
+    }
+    // .then(function (response) {
+    //     setSub(response.data.text);
+    //   })
+    //   .catch(function (error) {
+    //     console.error("Error:", error.message);
+    //   });
   }
 
   return (
@@ -45,7 +49,7 @@ export default function InputUrl() {
         Submit
       </button>
       <br/>
-      <p>{sub.text}</p>
+      <p>{sub}</p>
     </>
   );
 }
