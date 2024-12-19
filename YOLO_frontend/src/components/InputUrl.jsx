@@ -10,15 +10,17 @@ export default function InputUrl() {
   }
 
   async function Submit() {
-    const proxy = "https://cors-anywhere.herokuapp.com/"; // Temporary proxy for bypassing CORS
 
     axios({
       method: "POST",
-      url: `${proxy}https://app.roboflow.com/helmate-and-numberplate-detection-system/helmet-detection-and-number-plate-detection-gqppa-jkrn7/1`,
-      params: {
-        api_key: "ALi15MAfe2TMEwydwlS0",
-        image: url,
-      },
+      url: "http://127.0.0.1:5000/upload",
+      data: {  // Use `data` instead of `params` to send the request body
+        file_path: "C:\\Users\\egypt\\Downloads\\train\\737.jpg",
+        x: 425,
+        y: 628,
+        w: 180,
+        h: 86
+      }
     })
       .then(function (response) {
         console.log(response.data);
@@ -42,8 +44,8 @@ export default function InputUrl() {
       <button type="submit" onClick={Submit}>
         Submit
       </button>
-      <br />
-      <p>{JSON.stringify(sub)}</p>
+      <br/>
+      <p>{sub.text}</p>
     </>
   );
 }
