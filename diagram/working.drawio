@@ -1,129 +1,131 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="656" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-41" target="ZOlafXMfL-9xq-vA2VTu-43">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-41" target="ZOlafXMfL-9xq-vA2VTu-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-41" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" vertex="1" parent="1">
-          <mxGeometry x="490" y="70" width="30" height="30" as="geometry" />
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-41" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" parent="1" vertex="1">
+          <mxGeometry x="490" y="-70" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-43" target="ZOlafXMfL-9xq-vA2VTu-45">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-43" value="Provide a Image&amp;nbsp;&lt;div&gt;Input&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" parent="1" vertex="1">
+          <mxGeometry x="445" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-45" target="ZOlafXMfL-9xq-vA2VTu-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-43" value="Provide a Image&amp;nbsp;&lt;div&gt;Input&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" vertex="1" parent="1">
-          <mxGeometry x="445" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-45" target="ZOlafXMfL-9xq-vA2VTu-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-45" value="COCO-SSD&lt;div&gt;Crop Riders&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-45" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Crop Riders&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" parent="1" vertex="1">
           <mxGeometry x="445" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-47" target="ZOlafXMfL-9xq-vA2VTu-49">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-47" target="ZOlafXMfL-9xq-vA2VTu-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-47" value="Array of Riders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-47" value="Array of Riders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" parent="1" vertex="1">
           <mxGeometry x="445" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-49" target="ZOlafXMfL-9xq-vA2VTu-51">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-49" target="ZOlafXMfL-9xq-vA2VTu-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-49" target="ZOlafXMfL-9xq-vA2VTu-85">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-49" target="ZOlafXMfL-9xq-vA2VTu-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="2262.0001220703125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-49" value="While&amp;nbsp;&lt;div&gt;images&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;rounded=1;fontColor=#FCFCFC;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-49" value="While&amp;nbsp;&lt;div&gt;images&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;rounded=1;fontColor=#FCFCFC;" parent="1" vertex="1">
           <mxGeometry x="465" y="590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-51" target="ZOlafXMfL-9xq-vA2VTu-53">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-51" target="ZOlafXMfL-9xq-vA2VTu-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-51" value="YOLO Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-51" value="YOLO Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" parent="1" vertex="1">
           <mxGeometry x="445" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-53" target="ZOlafXMfL-9xq-vA2VTu-55">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-53" target="ZOlafXMfL-9xq-vA2VTu-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-53" value="Classify with&amp;nbsp;&lt;div&gt;helmet or without helmet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-53" value="Classify with&amp;nbsp;&lt;div&gt;helmet or without helmet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" parent="1" vertex="1">
           <mxGeometry x="445" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-55" target="ZOlafXMfL-9xq-vA2VTu-57">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-55" target="ZOlafXMfL-9xq-vA2VTu-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-55" target="ZOlafXMfL-9xq-vA2VTu-59">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-55" target="ZOlafXMfL-9xq-vA2VTu-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-55" value="if helmet" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-55" value="if helmet" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="1030" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-57" target="ZOlafXMfL-9xq-vA2VTu-67">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-57" target="ZOlafXMfL-9xq-vA2VTu-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-57" value="with helmet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-57" value="with helmet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" parent="1" vertex="1">
           <mxGeometry x="445" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-59" target="ZOlafXMfL-9xq-vA2VTu-61">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-59" target="ZOlafXMfL-9xq-vA2VTu-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-59" value="Without helmet" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-59" value="Without helmet" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-61" target="ZOlafXMfL-9xq-vA2VTu-63">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-61" target="ZOlafXMfL-9xq-vA2VTu-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-61" value="Extract Numberplate&lt;div&gt;OCR&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-61" value="Extract Numberplate&lt;div&gt;OCR&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-63" target="ZOlafXMfL-9xq-vA2VTu-65">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-63" target="ZOlafXMfL-9xq-vA2VTu-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-63" target="ZOlafXMfL-9xq-vA2VTu-69">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-63" target="ZOlafXMfL-9xq-vA2VTu-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-63" value="OCR&lt;div&gt;model&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-63" value="OCR&lt;div&gt;model&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1470" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-65" target="ZOlafXMfL-9xq-vA2VTu-73">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-65" target="ZOlafXMfL-9xq-vA2VTu-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-65" value="Add the resultant of the number plate, without a helmet, to the JSON object." style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-65" value="Add the resultant of the number plate, without a helmet, to the JSON object." style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-67" target="ZOlafXMfL-9xq-vA2VTu-76">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-67" target="ZOlafXMfL-9xq-vA2VTu-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-67" value="Add the result to Json object for that particular image" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-67" value="Add the result to Json object for that particular image" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="445" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-69" target="ZOlafXMfL-9xq-vA2VTu-71">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-69" target="ZOlafXMfL-9xq-vA2VTu-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-69" value="Number plate cannot be detected&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-69" value="Number plate cannot be detected&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" parent="1" vertex="1">
           <mxGeometry x="860" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-71" target="ZOlafXMfL-9xq-vA2VTu-73">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-71" target="ZOlafXMfL-9xq-vA2VTu-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-71" value="Add the Result" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-71" value="Add the Result" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-73" target="ZOlafXMfL-9xq-vA2VTu-76">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-73" target="ZOlafXMfL-9xq-vA2VTu-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-73" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-73" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="1800" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-76" target="ZOlafXMfL-9xq-vA2VTu-79">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-76" target="ZOlafXMfL-9xq-vA2VTu-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-76" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-76" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="1985" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-79" target="ZOlafXMfL-9xq-vA2VTu-49">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-79" target="ZOlafXMfL-9xq-vA2VTu-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1067.88" y="2143.43" as="sourcePoint" />
             <mxPoint x="930" y="620.07" as="targetPoint" />
@@ -133,19 +135,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-79" value="Append the result to the JSON Object" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-79" value="Append the result to the JSON Object" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="2155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZOlafXMfL-9xq-vA2VTu-85" target="ZOlafXMfL-9xq-vA2VTu-88">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZOlafXMfL-9xq-vA2VTu-85" target="ZOlafXMfL-9xq-vA2VTu-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="2450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-85" value="Return the final JSON Object" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-85" value="Return the final JSON Object" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="2270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOlafXMfL-9xq-vA2VTu-88" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="ZOlafXMfL-9xq-vA2VTu-88" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="285" y="2478" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3XsIWbTHh2aKaggBVc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vh3XsIWbTHh2aKaggBVc-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3XsIWbTHh2aKaggBVc-2" value="&lt;div&gt;YOLO&lt;/div&gt;&lt;div&gt;detects Riders&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#ff0000;fontColor=#FCFCFC;" vertex="1" parent="1">
+          <mxGeometry x="445" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
