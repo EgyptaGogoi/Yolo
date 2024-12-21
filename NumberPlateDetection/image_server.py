@@ -35,7 +35,7 @@ def ocr(image_path, x, y, w, h):
 
     return detected_text
 
-@app.route('/upload', methods=['POST'])
+@app.route('/upload', methods=['GET'])
 def upload_file():
     # Check for JSON data in the request
     if not request.is_json:
